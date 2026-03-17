@@ -1,5 +1,5 @@
 ## About Me <img align="right" src="https://avatars.githubusercontent.com/u/99566927?v=4" width="150" />
-I'm **Gooi Hean Zhen (Joshua)**, a 18-year-old software developer. I like to code web applications, games and bots. 
+I'm **Gooi Hean Zhen (Joshua)**, a 20-year-old software & app developer. I like to code web & mobile applications, games and AI-bots. 
   
 Thanks for visiting my GitHub profile. Be sure to follow me and have a great day ahead!~
   
@@ -15,4 +15,4 @@ const hz.gooi = {
 };
 ```
   
-<i>Last updated on 26th July 2024.</i> ✨
+<i>Last updated on 17th August 2024.</i> ✨
