@@ -15,4 +15,4 @@ const hz.gooi = {
 };
 ```
   
-<i>Last updated on 17th August 2024.</i> ✨
+<i>Last updated on 17th March 2026.</i> ✨
