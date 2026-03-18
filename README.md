@@ -1,7 +1,7 @@
 ## About Me 
 <img align="right" src="https://avatars.githubusercontent.com/u/99566927?v=4" width="150" />
 
-Hi, I'm **Gooi Hean Zhen (Joshua)** — a 20-year-old **Software & App Developer**.
+Hi, I'm **Gooi Hean Zhen (Joshua)**, a 20-year-old **Software & App Developer**.
 
 I build web and mobile applications, games, and AI-powered tools.  
 I’m particularly interested in creating **practical, user-focused solutions** that make a real impact.
